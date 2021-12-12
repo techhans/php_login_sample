@@ -42,9 +42,14 @@ INSERT INTO `member` (`mem_id`, `firstname`, `lastname`, `username`, `password` 
 ## Login Page
 
 On the login page, if you are a registered member, log in with your ID and password.
+
 ![Cap 2021-12-04 07-44-55-939](https://user-images.githubusercontent.com/92838352/145698498-0247bbb1-bd34-411f-99da-d6404727e4ec.png)
 
+If you are not a member, register on the membership registration page.
+
+![Cap 2021-12-03 13-14-13-493](https://user-images.githubusercontent.com/92838352/145698516-1c83e16d-50f9-427a-853b-b0552368d099.png)
 
 
+## Login Page
 
 
