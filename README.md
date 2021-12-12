@@ -11,6 +11,15 @@ https://www.sourcecodester.com/tutorials/php/12348/php-pdo-login-and-registratio
 
 # Getting Started
 
->
+The development environment was mainly carried out on the local PC in the following environment.
+
+> A : apache : httpd-2.4.51
+> 
+> P : php : php-7.4.25
+> 
+> M : MariaDB : 10.6.4
+
+
+
 
 
