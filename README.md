@@ -69,5 +69,16 @@ This is the user information delete page.
 
 > Administrators can delete information for specific users.
 
+## Each Lesson includes:
+
+- Login processing
+- Session handling
+- db table lookup
+- db table select
+- db table delete
+- db table insert
+- db table update
+- some html and css
+
 
 
