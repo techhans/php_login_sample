@@ -39,6 +39,11 @@ register the information of the administrator in advance
 INSERT INTO `member` (`mem_id`, `firstname`, `lastname`, `username`, `password` , `reg_date`) VALUES
 (1, 'Administrator', '', 'admin', 'admin' , '20211203081616');
 ```
+## Login Page
+
+On the login page, if you are a registered member, log in with your ID and password.
+![Cap 2021-12-04 07-44-55-939](https://user-images.githubusercontent.com/92838352/145698498-0247bbb1-bd34-411f-99da-d6404727e4ec.png)
+
 
 
 
