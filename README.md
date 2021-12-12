@@ -57,13 +57,17 @@ It moves to the screen after login, shows the information of the user table, and
 > When the administrator logs in, it goes to the main screen for member management.
 
 
-## Modify Page
+## Edit Page
 
+This is the user information edit page.
 
+> Administrators can edit a specific user's information and go to that page to edit the information.
 
 ## Delete Page
 
+This is the user information delete page.
 
+> Administrators can delete information for specific users.
 
 
 
