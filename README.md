@@ -80,5 +80,8 @@ This is the user information delete page.
 - db table update
 - some html and css
 
+> **A note about these**: By using this page to develop php, you will naturally learn how to use it.
+
+
 
 
