@@ -82,6 +82,10 @@ This is the user information delete page.
 
 > **A note about these**: By using this page to develop php, you will naturally learn how to use it.
 
+## Others 
 
+See also information here:
+
+- [Machine Learning for Beginners](https://www.sourcecodester.com/tutorials/php/12348/php-pdo-login-and-registration.html)
 
 
