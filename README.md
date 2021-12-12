@@ -31,7 +31,15 @@ CREATE TABLE `member` (
   `reg_date` varchar(14) COLLATE utf8mb4_unicode_ci NOT NULL,
   PRIMARY KEY (`mem_id`)
 ) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
-
 ```
+
+register the information of the administrator in advance
+
+```shell
+INSERT INTO `member` (`mem_id`, `firstname`, `lastname`, `username`, `password` , `reg_date`) VALUES
+(1, 'Administrator', '', 'admin', 'admin' , '20211203081616');
+```
+
+
 
 
