@@ -19,7 +19,19 @@ The development environment was mainly carried out on the local PC in the follow
 > 
 > M : MariaDB : 10.6.4
 
+DB creates a table for the schema as follows.
 
+```shell
+CREATE TABLE `member` (
+  `mem_id` int(11) NOT NULL AUTO_INCREMENT,
+  `firstname` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `lastname` varchar(50) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `username` varchar(30) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `password` varchar(12) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `reg_date` varchar(14) COLLATE utf8mb4_unicode_ci NOT NULL,
+  PRIMARY KEY (`mem_id`)
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
 
+```
 
 
