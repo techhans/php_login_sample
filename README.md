@@ -30,7 +30,7 @@ CREATE TABLE `member` (
   `password` varchar(12) COLLATE utf8mb4_unicode_ci NOT NULL,
   `reg_date` varchar(14) COLLATE utf8mb4_unicode_ci NOT NULL,
   PRIMARY KEY (`mem_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci
 ```
 
 register the information of the administrator in advance
